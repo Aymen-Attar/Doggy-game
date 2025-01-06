@@ -2,6 +2,8 @@
 
 ## Description
 Doggy Game is a fun interactive browser-based game where players control a dog character and navigate through obstacles. The game includes various challenges and levels that test the player's skills.
+## Status
+Currently, the game is in progress and not yet fully finished.
 
 ## Installation
 Clone the repository:
